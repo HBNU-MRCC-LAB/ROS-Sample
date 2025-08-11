@@ -1,0 +1,2 @@
+1.LuMoSDK文件夹中，include为SDK的需包含的头文件，lib中为SDK的动态库。其中libLuMoSDK_C.so为C接口类型的动态库，libLuMoSDK.so为C++接口的动态库
+2.当前目录下的CPP是使用SDK的demo源码，CMakeLists.txt为工程配置，在Build文件夹下编译生成了demo可执行程序。
